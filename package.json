@@ -1,0 +1,14 @@
+{
+  "name": "react-native-mixpanel-bridge",
+  "version": "0.1.0",
+  "description": "React Native bridge for Mixpanel",
+  "main": "index.js",
+  "license": "MIT",
+  "rnpm": {
+    "ios": {
+      "sharedLibraries": [
+        "libicucore"
+      ]
+    }
+  }
+}
