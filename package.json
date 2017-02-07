@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "React Native bridge for Mixpanel",
   "main": "index.js",
+  "repository": "http://github.com/projetoeureka/react-native-mixpanel-bridge",
   "license": "MIT",
   "rnpm": {
     "ios": {
