@@ -5,6 +5,7 @@
   "main": "index.js",
   "repository": "http://github.com/projetoeureka/react-native-mixpanel-bridge",
   "license": "MIT",
+  "types": "index.d.ts",
   "rnpm": {
     "ios": {
       "sharedLibraries": [
